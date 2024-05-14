@@ -1,8 +1,10 @@
 # Unsplash JPG Fixer
 
-![Unsplash JPG Fixer Icon](https://i.imgur.com/bQKpoN3.png)
+![Unsplash JPG Fixer Icon](https://i.imgur.com/i0ANVm0.png)
 
-Unsplash JPG Fixer is a powerful and user-friendly Chrome extension designed to enhance your browsing experience on Unsplash by automatically converting all images to the widely-used JPG format. Whether you're a designer, developer, or simply an avid collector of high-quality photos, this extension ensures that every image you save from Unsplash is in the convenient JPG format, simplifying your workflow and ensuring compatibility across various applications and platforms.
+Unsplash JPG Fixer is a powerful and user-friendly Chrome extension designed to enhance your browsing experience on Unsplash by automatically converting all images to the widely-used JPG format. 
+
+Whether you're a designer, developer, or simply an avid collector of high-quality photos, this extension ensures that every image you save from Unsplash is in the convenient JPG format, simplifying your workflow and ensuring compatibility across various applications and platforms.
 
 ## Features
 
